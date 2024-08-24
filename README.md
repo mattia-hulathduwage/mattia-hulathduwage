@@ -7,15 +7,15 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 Currently Advancing My Skills in **MERN STACK**
 
 - 🧑‍🎓 I’m an Undergraduate at **NIBM**
 
-- 💬 Ask me about **Java**
+- 💬 Experienced in **Java**
 
 - 📫 How to reach me **mwathsilu@gmail.com**
   
-- ⚡ Fun fact **Call me as KD**
+- 🚀 Passionate About Innovative Tech Solutions
 
 </td>
 <td width="50%" align="center">
