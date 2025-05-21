@@ -32,10 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattia-hulathduwage&layout=compact&theme=radical" height="170px"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mattia-hulathduwage&theme=radical&hide_border=false" />
-</p>
-
 ---
 
 ## 🌍 Connect with Me
