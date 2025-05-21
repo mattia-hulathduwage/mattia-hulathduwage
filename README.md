@@ -7,12 +7,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/mattia-hulathduwage/mattia-hulathduwage/assets/your-image" alt="hero" width="80%" />
-</p>
-
----
-
 ## 🧑‍💻 About Me
 
 - 🎓 Software Engineering Undergraduate at **NIBM**
@@ -54,31 +48,8 @@
 
 ---
 
-## 🖥️ Featured Projects
-
-### 💼 [Personal Portfolio Website](https://github.com/mattia-hulathduwage/Personal-Portfolio)
-> A modern, responsive portfolio built with **React.js** & **Tailwind CSS**, showcasing my projects and professional journey.
-
-![Portfolio Screenshot](https://github.com/mattia-hulathduwage/Personal-Portfolio/blob/master/screenshot.png?raw=true)
-
----
-
-### 🥗 [Restaurant Website](https://github.com/mattia-hulathduwage/restaurant-website)
-> Interactive restaurant site with online ordering, e-receipt generation, and booking features. Built using **HTML**, **CSS**, and **JavaScript**.
-
-![Restaurant Screenshot](https://github.com/mattia-hulathduwage/restaurant-website/blob/main/images/image.png?raw=true)
-
----
-
-### 🏋️ [Gym Website](https://github.com/mattia-hulathduwage/Gym-Website)
-> Gym showcase and signup form with animations and responsive design using **HTML**, **CSS**, and **JavaScript**.
-
-![Gym Screenshot](https://github.com/mattia-hulathduwage/Gym-Website/blob/main/crossfit1/images/gym.png?raw=true)
-
----
-
-## ✨ Let's Build the Future Together
+## ✨ Let’s Build the Future Together
 
 > “Code is not just instructions to machines—it's imagination brought to life.”
 
-Thank you for visiting! Don’t forget to ⭐️ my repositories if they inspire you.
+Thanks for stopping by! If you find my work useful or inspiring, feel free to ⭐️ my repositories!
