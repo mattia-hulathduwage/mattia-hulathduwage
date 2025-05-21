@@ -20,7 +20,7 @@
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,mysql,cpp,php,figma,tailwind,bootstrap,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,mysql,php,figma,tailwind,bootstrap,git,vscode" />
 </p>
 
 ---
